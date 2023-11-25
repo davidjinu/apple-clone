@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  header {
+    display: flex;
+    height: 44px;
+    background: rgba(0, 0, 0, 0.8);
+    padding-inline: 244px;
+    box-sizing: border-box;
+  }
+  
+  nav {
+    display: flex;
+    gap: 24.75px;
+  }
+  #productList {
+    display: flex;
+    justify-content: center;
+    gap: 30.61px;
+    height: 129px;
+    padding-inline: 205.67px;
+  }
+  #productList p {
+    margin-top: 0px;
+    display: flex;
+    height: 14px;
+    justify-content: center;
+    color: #1d1d1f;
+    gap: 40.22px;
+    text-align: center;
+    font-family: SF Pro Text;
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: -0.12px;
+    white-space: nowrap;
+  }
+  #productList span{
+    color: #BF4800;
+    display: flex;
+    justify-content: center;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-size: 10px;
+  font-style: normal;
+  }
